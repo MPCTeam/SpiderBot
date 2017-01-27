@@ -26,7 +26,7 @@ end
     local psum = 0
     for k, v in pairs(plugins_names()) do
       --  ✅ enabled, ❌ disabled
-      local status = '<b>|•|❌|•|</b>'
+      local status = '<b> ❌ </b>'
       psum = psum+1
       pact = 0
       -- Check if is enabled
