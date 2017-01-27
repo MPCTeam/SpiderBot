@@ -228,7 +228,7 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "plugins",	
+    "Plugins",	
 	"supergroup",
 	"whitelist",	
 	"msg_checks"
