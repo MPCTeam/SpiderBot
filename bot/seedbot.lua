@@ -228,9 +228,9 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
+    "plugins",	
 	"supergroup",
-	"whitelist",
-	"plugins",
+	"whitelist",	
 	"msg_checks"
     },
     sudo_users = {219410991,229862014},--Sudo users
